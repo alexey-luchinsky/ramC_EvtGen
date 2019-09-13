@@ -43,10 +43,10 @@ RM = /usr/bin/cmake -E remove -f
 EQUALS = =
 
 # The top-level source directory on which CMake was run.
-CMAKE_SOURCE_DIR = /home/anton/programs/ramc
+CMAKE_SOURCE_DIR = /home/anton/work/ramC_EvtGen
 
 # The top-level build directory on which CMake was run.
-CMAKE_BINARY_DIR = /home/anton/programs/ramc/build
+CMAKE_BINARY_DIR = /home/anton/work/ramC_EvtGen/build
 
 # Include any dependencies generated for this target.
 include CMakeFiles/pion.exe.dir/depend.make
@@ -59,29 +59,29 @@ include CMakeFiles/pion.exe.dir/flags.make
 
 CMakeFiles/pion.exe.dir/src/pion.c++.o: CMakeFiles/pion.exe.dir/flags.make
 CMakeFiles/pion.exe.dir/src/pion.c++.o: ../src/pion.c++
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/home/anton/programs/ramc/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_1) "Building CXX object CMakeFiles/pion.exe.dir/src/pion.c++.o"
-	/usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/pion.exe.dir/src/pion.c++.o -c /home/anton/programs/ramc/src/pion.c++
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/home/anton/work/ramC_EvtGen/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_1) "Building CXX object CMakeFiles/pion.exe.dir/src/pion.c++.o"
+	/usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/pion.exe.dir/src/pion.c++.o -c /home/anton/work/ramC_EvtGen/src/pion.c++
 
 CMakeFiles/pion.exe.dir/src/pion.c++.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/pion.exe.dir/src/pion.c++.i"
-	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /home/anton/programs/ramc/src/pion.c++ > CMakeFiles/pion.exe.dir/src/pion.c++.i
+	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /home/anton/work/ramC_EvtGen/src/pion.c++ > CMakeFiles/pion.exe.dir/src/pion.c++.i
 
 CMakeFiles/pion.exe.dir/src/pion.c++.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/pion.exe.dir/src/pion.c++.s"
-	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /home/anton/programs/ramc/src/pion.c++ -o CMakeFiles/pion.exe.dir/src/pion.c++.s
+	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /home/anton/work/ramC_EvtGen/src/pion.c++ -o CMakeFiles/pion.exe.dir/src/pion.c++.s
 
 CMakeFiles/pion.exe.dir/src/EvtWnPi2.cpp.o: CMakeFiles/pion.exe.dir/flags.make
 CMakeFiles/pion.exe.dir/src/EvtWnPi2.cpp.o: ../src/EvtWnPi2.cpp
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/home/anton/programs/ramc/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_2) "Building CXX object CMakeFiles/pion.exe.dir/src/EvtWnPi2.cpp.o"
-	/usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/pion.exe.dir/src/EvtWnPi2.cpp.o -c /home/anton/programs/ramc/src/EvtWnPi2.cpp
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/home/anton/work/ramC_EvtGen/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_2) "Building CXX object CMakeFiles/pion.exe.dir/src/EvtWnPi2.cpp.o"
+	/usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/pion.exe.dir/src/EvtWnPi2.cpp.o -c /home/anton/work/ramC_EvtGen/src/EvtWnPi2.cpp
 
 CMakeFiles/pion.exe.dir/src/EvtWnPi2.cpp.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/pion.exe.dir/src/EvtWnPi2.cpp.i"
-	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /home/anton/programs/ramc/src/EvtWnPi2.cpp > CMakeFiles/pion.exe.dir/src/EvtWnPi2.cpp.i
+	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /home/anton/work/ramC_EvtGen/src/EvtWnPi2.cpp > CMakeFiles/pion.exe.dir/src/EvtWnPi2.cpp.i
 
 CMakeFiles/pion.exe.dir/src/EvtWnPi2.cpp.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/pion.exe.dir/src/EvtWnPi2.cpp.s"
-	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /home/anton/programs/ramc/src/EvtWnPi2.cpp -o CMakeFiles/pion.exe.dir/src/EvtWnPi2.cpp.s
+	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /home/anton/work/ramC_EvtGen/src/EvtWnPi2.cpp -o CMakeFiles/pion.exe.dir/src/EvtWnPi2.cpp.s
 
 # Object files for target pion.exe
 pion_exe_OBJECTS = \
@@ -98,7 +98,7 @@ pion.exe: libramC.a
 pion.exe: /home/anton/programs/EvtGen-01.07.00/EvtGen/R01-07-00/lib/archive/libEvtGen.a
 pion.exe: /home/anton/programs/EvtGen-01.07.00/EvtGen/EvtGen/external/HepMC/lib/libHepMC.a
 pion.exe: CMakeFiles/pion.exe.dir/link.txt
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --bold --progress-dir=/home/anton/programs/ramc/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_3) "Linking CXX executable pion.exe"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --bold --progress-dir=/home/anton/work/ramC_EvtGen/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_3) "Linking CXX executable pion.exe"
 	$(CMAKE_COMMAND) -E cmake_link_script CMakeFiles/pion.exe.dir/link.txt --verbose=$(VERBOSE)
 
 # Rule to build all files generated by this target.
@@ -111,6 +111,6 @@ CMakeFiles/pion.exe.dir/clean:
 .PHONY : CMakeFiles/pion.exe.dir/clean
 
 CMakeFiles/pion.exe.dir/depend:
-	cd /home/anton/programs/ramc/build && $(CMAKE_COMMAND) -E cmake_depends "Unix Makefiles" /home/anton/programs/ramc /home/anton/programs/ramc /home/anton/programs/ramc/build /home/anton/programs/ramc/build /home/anton/programs/ramc/build/CMakeFiles/pion.exe.dir/DependInfo.cmake --color=$(COLOR)
+	cd /home/anton/work/ramC_EvtGen/build && $(CMAKE_COMMAND) -E cmake_depends "Unix Makefiles" /home/anton/work/ramC_EvtGen /home/anton/work/ramC_EvtGen /home/anton/work/ramC_EvtGen/build /home/anton/work/ramC_EvtGen/build /home/anton/work/ramC_EvtGen/build/CMakeFiles/pion.exe.dir/DependInfo.cmake --color=$(COLOR)
 .PHONY : CMakeFiles/pion.exe.dir/depend
 

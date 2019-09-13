@@ -4,8 +4,8 @@ set(CMAKE_DEPENDS_LANGUAGES
   )
 # The set of files for implicit dependencies of each language:
 set(CMAKE_DEPENDS_CHECK_CXX
-  "/home/anton/programs/ramc/src/EvtWnPi2.cpp" "/home/anton/programs/ramc/build/CMakeFiles/prog.exe.dir/src/EvtWnPi2.cpp.o"
-  "/home/anton/programs/ramc/src/prog.c++" "/home/anton/programs/ramc/build/CMakeFiles/prog.exe.dir/src/prog.c++.o"
+  "/home/anton/work/ramC_EvtGen/src/EvtWnPi2.cpp" "/home/anton/work/ramC_EvtGen/build/CMakeFiles/prog.exe.dir/src/EvtWnPi2.cpp.o"
+  "/home/anton/work/ramC_EvtGen/src/prog.c++" "/home/anton/work/ramC_EvtGen/build/CMakeFiles/prog.exe.dir/src/prog.c++.o"
   )
 set(CMAKE_CXX_COMPILER_ID "GNU")
 
@@ -20,7 +20,7 @@ set(CMAKE_CXX_TARGET_INCLUDE_PATH
 
 # Targets to which this target links.
 set(CMAKE_TARGET_LINKED_INFO_FILES
-  "/home/anton/programs/ramc/build/CMakeFiles/ramC.dir/DependInfo.cmake"
+  "/home/anton/work/ramC_EvtGen/build/CMakeFiles/ramC.dir/DependInfo.cmake"
   )
 
 # Fortran module output directory.

@@ -44,9 +44,6 @@ CMakeFiles/pion.exe.dir/src/pion.c++.o: /home/anton/programs/EvtGen-01.07.00/Evt
 CMakeFiles/pion.exe.dir/src/pion.c++.o: /home/anton/programs/EvtGen-01.07.00/EvtGen/R01-07-00/EvtGenBase/EvtVector3R.hh
 CMakeFiles/pion.exe.dir/src/pion.c++.o: /home/anton/programs/EvtGen-01.07.00/EvtGen/R01-07-00/EvtGenBase/EvtVector4C.hh
 CMakeFiles/pion.exe.dir/src/pion.c++.o: /home/anton/programs/EvtGen-01.07.00/EvtGen/R01-07-00/EvtGenBase/EvtVector4R.hh
-CMakeFiles/pion.exe.dir/src/pion.c++.o: ../src/./EvtWnPi2.hh
-CMakeFiles/pion.exe.dir/src/pion.c++.o: ../src/pion.c++
-CMakeFiles/pion.exe.dir/src/pion.c++.o: ../src/ramC.h
 CMakeFiles/pion.exe.dir/src/pion.c++.o: /home/anton/programs/root_v6.16.00.source/root-6.16.00/obj/include/DllImport.h
 CMakeFiles/pion.exe.dir/src/pion.c++.o: /home/anton/programs/root_v6.16.00.source/root-6.16.00/obj/include/Math/TRandomEngine.h
 CMakeFiles/pion.exe.dir/src/pion.c++.o: /home/anton/programs/root_v6.16.00.source/root-6.16.00/obj/include/RConfigure.h
@@ -73,4 +70,7 @@ CMakeFiles/pion.exe.dir/src/pion.c++.o: /home/anton/programs/root_v6.16.00.sourc
 CMakeFiles/pion.exe.dir/src/pion.c++.o: /home/anton/programs/root_v6.16.00.source/root-6.16.00/obj/include/TVirtualIsAProxy.h
 CMakeFiles/pion.exe.dir/src/pion.c++.o: /home/anton/programs/root_v6.16.00.source/root-6.16.00/obj/include/snprintf.h
 CMakeFiles/pion.exe.dir/src/pion.c++.o: /home/anton/programs/root_v6.16.00.source/root-6.16.00/obj/include/strlcpy.h
+CMakeFiles/pion.exe.dir/src/pion.c++.o: ../src/./EvtWnPi2.hh
+CMakeFiles/pion.exe.dir/src/pion.c++.o: ../src/pion.c++
+CMakeFiles/pion.exe.dir/src/pion.c++.o: ../src/ramC.h
 

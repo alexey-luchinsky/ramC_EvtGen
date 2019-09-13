@@ -27,8 +27,8 @@ CMakeFiles/prog.exe.dir/src/EvtWnPi2.cpp.o
  /home/anton/programs/EvtGen-01.07.00/EvtGen/R01-07-00/EvtGenBase/EvtVector4C.hh
  /home/anton/programs/EvtGen-01.07.00/EvtGen/R01-07-00/EvtGenBase/EvtVector4R.hh
  /home/anton/programs/EvtGen-01.07.00/EvtGen/R01-07-00/EvtGenModels/EvtTauHadnu.hh
- /home/anton/programs/ramc/src/EvtWnPi2.cpp
- /home/anton/programs/ramc/src/EvtWnPi2.hh
+ /home/anton/work/ramC_EvtGen/src/EvtWnPi2.cpp
+ /home/anton/work/ramC_EvtGen/src/EvtWnPi2.hh
 CMakeFiles/prog.exe.dir/src/prog.c++.o
  /home/anton/programs/EvtGen-01.07.00/EvtGen/R01-07-00/EvtGenBase/EvtAbsLineShape.hh
  /home/anton/programs/EvtGen-01.07.00/EvtGen/R01-07-00/EvtGenBase/EvtComplex.hh
@@ -45,9 +45,6 @@ CMakeFiles/prog.exe.dir/src/prog.c++.o
  /home/anton/programs/EvtGen-01.07.00/EvtGen/R01-07-00/EvtGenBase/EvtVector3R.hh
  /home/anton/programs/EvtGen-01.07.00/EvtGen/R01-07-00/EvtGenBase/EvtVector4C.hh
  /home/anton/programs/EvtGen-01.07.00/EvtGen/R01-07-00/EvtGenBase/EvtVector4R.hh
- /home/anton/programs/ramc/src/./EvtWnPi2.hh
- /home/anton/programs/ramc/src/prog.c++
- /home/anton/programs/ramc/src/ramC.h
  /home/anton/programs/root_v6.16.00.source/root-6.16.00/obj/include/DllImport.h
  /home/anton/programs/root_v6.16.00.source/root-6.16.00/obj/include/Math/TRandomEngine.h
  /home/anton/programs/root_v6.16.00.source/root-6.16.00/obj/include/RConfigure.h
@@ -74,3 +71,6 @@ CMakeFiles/prog.exe.dir/src/prog.c++.o
  /home/anton/programs/root_v6.16.00.source/root-6.16.00/obj/include/TVirtualIsAProxy.h
  /home/anton/programs/root_v6.16.00.source/root-6.16.00/obj/include/snprintf.h
  /home/anton/programs/root_v6.16.00.source/root-6.16.00/obj/include/strlcpy.h
+ /home/anton/work/ramC_EvtGen/src/./EvtWnPi2.hh
+ /home/anton/work/ramC_EvtGen/src/prog.c++
+ /home/anton/work/ramC_EvtGen/src/ramC.h

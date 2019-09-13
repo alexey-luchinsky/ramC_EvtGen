@@ -6,5 +6,5 @@ CXX_FLAGS =
 
 CXX_DEFINES = 
 
-CXX_INCLUDES = -I/home/anton/local/include -I/home/anton/programs/ramc/src -I/home/anton/programs/root_v6.16.00.source/root-6.16.00/obj/include -I/home/anton/programs/EvtGen-01.07.00/EvtGen/R01-07-00 -I/home/anton/programs/ramc/. 
+CXX_INCLUDES = -I/home/anton/local/include -I/home/anton/work/ramC_EvtGen/src -I/home/anton/programs/root_v6.16.00.source/root-6.16.00/obj/include -I/home/anton/programs/EvtGen-01.07.00/EvtGen/R01-07-00 -I/home/anton/work/ramC_EvtGen/. 
 

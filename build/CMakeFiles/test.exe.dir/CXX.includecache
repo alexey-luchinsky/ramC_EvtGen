@@ -574,20 +574,6 @@ iostream
 math.h
 -
 
-/home/anton/programs/ramc/src/ramC.h
-EvtGenBase/EvtVector4R.hh
-/home/anton/programs/ramc/src/EvtGenBase/EvtVector4R.hh
-TRandom.h
-/home/anton/programs/ramc/src/TRandom.h
-
-/home/anton/programs/ramc/src/test.c++
-catch.hpp
--
-ramC.h
-/home/anton/programs/ramc/src/ramC.h
-iostream
--
-
 /home/anton/programs/root_v6.16.00.source/root-6.16.00/obj/include/DllImport.h
 
 /home/anton/programs/root_v6.16.00.source/root-6.16.00/obj/include/Math/TRandomEngine.h
@@ -828,5 +814,19 @@ ROOT/RConfig.h
 unistd.h
 -
 sys/types.h
+-
+
+/home/anton/work/ramC_EvtGen/src/ramC.h
+EvtGenBase/EvtVector4R.hh
+/home/anton/work/ramC_EvtGen/src/EvtGenBase/EvtVector4R.hh
+TRandom.h
+/home/anton/work/ramC_EvtGen/src/TRandom.h
+
+/home/anton/work/ramC_EvtGen/src/test.c++
+catch.hpp
+-
+ramC.h
+/home/anton/work/ramC_EvtGen/src/ramC.h
+iostream
 -
 

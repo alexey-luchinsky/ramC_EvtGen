@@ -4,7 +4,7 @@ set(CMAKE_DEPENDS_LANGUAGES
   )
 # The set of files for implicit dependencies of each language:
 set(CMAKE_DEPENDS_CHECK_CXX
-  "/home/anton/programs/ramc/src/test.c++" "/home/anton/programs/ramc/build/CMakeFiles/test.exe.dir/src/test.c++.o"
+  "/home/anton/work/ramC_EvtGen/src/test.c++" "/home/anton/work/ramC_EvtGen/build/CMakeFiles/test.exe.dir/src/test.c++.o"
   )
 set(CMAKE_CXX_COMPILER_ID "GNU")
 
@@ -19,7 +19,7 @@ set(CMAKE_CXX_TARGET_INCLUDE_PATH
 
 # Targets to which this target links.
 set(CMAKE_TARGET_LINKED_INFO_FILES
-  "/home/anton/programs/ramc/build/CMakeFiles/ramC.dir/DependInfo.cmake"
+  "/home/anton/work/ramC_EvtGen/build/CMakeFiles/ramC.dir/DependInfo.cmake"
   )
 
 # Fortran module output directory.

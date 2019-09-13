@@ -3,8 +3,6 @@
 
 CMakeFiles/ramC.dir/src/ramC.c++.o
  /home/anton/programs/EvtGen-01.07.00/EvtGen/R01-07-00/EvtGenBase/EvtVector4R.hh
- /home/anton/programs/ramc/src/ramC.c++
- /home/anton/programs/ramc/src/ramC.h
  /home/anton/programs/root_v6.16.00.source/root-6.16.00/obj/include/DllImport.h
  /home/anton/programs/root_v6.16.00.source/root-6.16.00/obj/include/Math/TRandomEngine.h
  /home/anton/programs/root_v6.16.00.source/root-6.16.00/obj/include/RConfigure.h
@@ -31,5 +29,7 @@ CMakeFiles/ramC.dir/src/ramC.c++.o
  /home/anton/programs/root_v6.16.00.source/root-6.16.00/obj/include/TVirtualIsAProxy.h
  /home/anton/programs/root_v6.16.00.source/root-6.16.00/obj/include/snprintf.h
  /home/anton/programs/root_v6.16.00.source/root-6.16.00/obj/include/strlcpy.h
+ /home/anton/work/ramC_EvtGen/src/ramC.c++
+ /home/anton/work/ramC_EvtGen/src/ramC.h
 CMakeFiles/ramC.dir/src/rambo_.for.o
- /home/anton/programs/ramc/src/rambo_.for
+ /home/anton/work/ramC_EvtGen/src/rambo_.for

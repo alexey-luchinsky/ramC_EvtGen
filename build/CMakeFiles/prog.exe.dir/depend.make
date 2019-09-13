@@ -44,9 +44,6 @@ CMakeFiles/prog.exe.dir/src/prog.c++.o: /home/anton/programs/EvtGen-01.07.00/Evt
 CMakeFiles/prog.exe.dir/src/prog.c++.o: /home/anton/programs/EvtGen-01.07.00/EvtGen/R01-07-00/EvtGenBase/EvtVector3R.hh
 CMakeFiles/prog.exe.dir/src/prog.c++.o: /home/anton/programs/EvtGen-01.07.00/EvtGen/R01-07-00/EvtGenBase/EvtVector4C.hh
 CMakeFiles/prog.exe.dir/src/prog.c++.o: /home/anton/programs/EvtGen-01.07.00/EvtGen/R01-07-00/EvtGenBase/EvtVector4R.hh
-CMakeFiles/prog.exe.dir/src/prog.c++.o: ../src/./EvtWnPi2.hh
-CMakeFiles/prog.exe.dir/src/prog.c++.o: ../src/prog.c++
-CMakeFiles/prog.exe.dir/src/prog.c++.o: ../src/ramC.h
 CMakeFiles/prog.exe.dir/src/prog.c++.o: /home/anton/programs/root_v6.16.00.source/root-6.16.00/obj/include/DllImport.h
 CMakeFiles/prog.exe.dir/src/prog.c++.o: /home/anton/programs/root_v6.16.00.source/root-6.16.00/obj/include/Math/TRandomEngine.h
 CMakeFiles/prog.exe.dir/src/prog.c++.o: /home/anton/programs/root_v6.16.00.source/root-6.16.00/obj/include/RConfigure.h
@@ -73,4 +70,7 @@ CMakeFiles/prog.exe.dir/src/prog.c++.o: /home/anton/programs/root_v6.16.00.sourc
 CMakeFiles/prog.exe.dir/src/prog.c++.o: /home/anton/programs/root_v6.16.00.source/root-6.16.00/obj/include/TVirtualIsAProxy.h
 CMakeFiles/prog.exe.dir/src/prog.c++.o: /home/anton/programs/root_v6.16.00.source/root-6.16.00/obj/include/snprintf.h
 CMakeFiles/prog.exe.dir/src/prog.c++.o: /home/anton/programs/root_v6.16.00.source/root-6.16.00/obj/include/strlcpy.h
+CMakeFiles/prog.exe.dir/src/prog.c++.o: ../src/./EvtWnPi2.hh
+CMakeFiles/prog.exe.dir/src/prog.c++.o: ../src/prog.c++
+CMakeFiles/prog.exe.dir/src/prog.c++.o: ../src/ramC.h
 

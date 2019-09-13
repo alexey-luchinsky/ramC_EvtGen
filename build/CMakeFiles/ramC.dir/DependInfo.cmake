@@ -5,7 +5,7 @@ set(CMAKE_DEPENDS_LANGUAGES
   )
 # The set of files for implicit dependencies of each language:
 set(CMAKE_DEPENDS_CHECK_CXX
-  "/home/anton/programs/ramc/src/ramC.c++" "/home/anton/programs/ramc/build/CMakeFiles/ramC.dir/src/ramC.c++.o"
+  "/home/anton/work/ramC_EvtGen/src/ramC.c++" "/home/anton/work/ramC_EvtGen/build/CMakeFiles/ramC.dir/src/ramC.c++.o"
   )
 set(CMAKE_CXX_COMPILER_ID "GNU")
 
@@ -18,7 +18,7 @@ set(CMAKE_CXX_TARGET_INCLUDE_PATH
   "../."
   )
 set(CMAKE_DEPENDS_CHECK_Fortran
-  "/home/anton/programs/ramc/src/rambo_.for" "/home/anton/programs/ramc/build/CMakeFiles/ramC.dir/src/rambo_.for.o"
+  "/home/anton/work/ramC_EvtGen/src/rambo_.for" "/home/anton/work/ramC_EvtGen/build/CMakeFiles/ramC.dir/src/rambo_.for.o"
   )
 set(CMAKE_Fortran_COMPILER_ID "GNU")
 

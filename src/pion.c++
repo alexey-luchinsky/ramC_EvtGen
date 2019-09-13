@@ -180,7 +180,7 @@ int main(){
     double qmin4 = 4* mpi;
     double qmin5 = 5* mpi;
     
-    int qsize = 200;
+    int qsize = 100;
     
     double qstep2 = (qmax2-qmin2)/qsize;
     double qstep3 = (qmax3-qmin3)/qsize;

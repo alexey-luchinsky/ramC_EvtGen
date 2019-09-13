@@ -4,8 +4,6 @@
 CMakeFiles/test.exe.dir/src/test.c++.o
  ../src/catch.hpp
  /home/anton/programs/EvtGen-01.07.00/EvtGen/R01-07-00/EvtGenBase/EvtVector4R.hh
- /home/anton/programs/ramc/src/ramC.h
- /home/anton/programs/ramc/src/test.c++
  /home/anton/programs/root_v6.16.00.source/root-6.16.00/obj/include/DllImport.h
  /home/anton/programs/root_v6.16.00.source/root-6.16.00/obj/include/Math/TRandomEngine.h
  /home/anton/programs/root_v6.16.00.source/root-6.16.00/obj/include/RConfigure.h
@@ -32,3 +30,5 @@ CMakeFiles/test.exe.dir/src/test.c++.o
  /home/anton/programs/root_v6.16.00.source/root-6.16.00/obj/include/TVirtualIsAProxy.h
  /home/anton/programs/root_v6.16.00.source/root-6.16.00/obj/include/snprintf.h
  /home/anton/programs/root_v6.16.00.source/root-6.16.00/obj/include/strlcpy.h
+ /home/anton/work/ramC_EvtGen/src/ramC.h
+ /home/anton/work/ramC_EvtGen/src/test.c++
