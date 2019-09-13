@@ -1,0 +1,6 @@
+/home/anton/programs/ramc/build/CMakeFiles/rebuild_cache.dir
+/home/anton/programs/ramc/build/CMakeFiles/pion.exe.dir
+/home/anton/programs/ramc/build/CMakeFiles/prog.exe.dir
+/home/anton/programs/ramc/build/CMakeFiles/test.exe.dir
+/home/anton/programs/ramc/build/CMakeFiles/ramC.dir
+/home/anton/programs/ramc/build/CMakeFiles/edit_cache.dir
